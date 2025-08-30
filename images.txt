@@ -4,3 +4,4 @@ rabbitmq:management
 rabbitmq:3.8.0-management
 rustdesk/rustdesk-server:latest
 neo4j:5.26.2
+pgrouting/pgrouting:13-3.2-3.1
